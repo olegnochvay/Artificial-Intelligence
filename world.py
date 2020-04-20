@@ -226,7 +226,8 @@ class world:
                 break
 
 
-    # moveAgentUp                             
+    # moveAgentUp   
+    
     def moveAgentUp(self):
         x = self.world.index(AGENT)
         if(x/self.size != 0):
@@ -242,7 +243,8 @@ class world:
             return self.moveAgent(x+self.size);
         return ALIVE
 
-    # moveAgentLeft                         
+    # moveAgentLeft     
+    
     def moveAgentLeft(self):
         x = self.world.index(AGENT)
         if(x%self.size != 0):
