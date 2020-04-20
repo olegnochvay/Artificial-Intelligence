@@ -37,4 +37,4 @@ Part 2. The Agent
 	B.	Start a..p.pw ..p..g. ....... ....... Move down ...p.pw a.p..g. ....... .......  
 	C.	Improveme nts a. Randomly generated cave  b. Make the wumpus move  
 c. Arm the agent. 
-====================================================
+====================================================+
