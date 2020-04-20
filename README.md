@@ -35,15 +35,15 @@ Consider the agent and its environment in the Wumpus world. The environment in t
 	
 	4.	Design a main method, that will test how the environment returns the percepts. It should get the coordinates form the user, and report the percepts  
 	
-a) In the internal representation 
+	a) In the internal representation 
 
-b) In a user-friendly representation. Make the program run multiple times, so that you can make several tests. 
-CMSC 310 Artificial Intelligence 
-1 
-While working on this project, you will have to make various choices (for example, would the percepts be represented as a list, by an array, by a single variable with different values, by a set of variables?). Please record the choices that you have considered for each task above, your thoughts about each choice and why you made a particular choice. 
+	b) In a user-friendly representation. Make the program run multiple times, so that you can make several tests. 
+	CMSC 310 Artificial Intelligence 
+	1 
+	While working on this project, you will have to make various choices (for example, would the percepts be represented as a list, by an array, by a single variable with different values, by a set of variables?). Please record the choices that you have considered for each task above, your thoughts about each choice and why you made a particular choice. 
 
-Part 2. The Agent 
-	A.	Core Version – stationary wumpus, the agent does not possess a weapon. 
+	Part 2. The Agent 
+		A.	Core Version – stationary wumpus, the agent does not possess a weapon. 
 	
 	1.	Design the agent class. What would be the agent representation?  What are the available actions of the agent? How would the agent choose an action? How would the action be reported to the Environment?  
 	2.	Implement a safe agent – the agent does not take chances. If the agent cannot find a path to the gold, it gives up.  
@@ -52,5 +52,5 @@ Part 2. The Agent
 	B.	Start a..p.pw ..p..g. ....... ....... Move down ...p.pw a.p..g. ....... .......  
 	C.	Improveme nts a. Randomly generated cave  b. Make the wumpus move  
 	
-c. Arm the agent. 
+	c. Arm the agent. 
 ====================================================+
