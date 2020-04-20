@@ -1,5 +1,7 @@
 # Artificial-Intelligence
 
+# WUMPUS PROJECT
+
 
 Note: This project is coded in Python Version 2.7 IDLE. It is designed to only be run in this version. 
 If unable to run code, please use the link: https://www.python.org/downloads/release/python-2716/ to download version 2.7.16 IDLE.
